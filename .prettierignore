@@ -1,0 +1,10 @@
+/.vscode
+/node_modules
+./dist
+
+
+*.env
+.env*
+
+
+mongodb+srv://jatingaur:jatingaur1234@cluster0.dzyagct.mongodb.net/
